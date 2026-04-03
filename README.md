@@ -1,2 +1,11 @@
 # AI-Image-Generator
-AI Image Generator web app that creates images from text prompts with multiple models and download support.
+
+## 🚀 Features
+
+- 🧠 Multiple AI model selection
+- 🎯 Custom prompt input
+- 🖼️ Generate multiple images at once
+- 📐 Aspect ratio control (1:1, 16:9, 9:16)
+- 🌙 Dark / Light mode toggle
+- ⬇️ Download generated images
+- ⚡ Fast and responsive UI
